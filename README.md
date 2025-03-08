@@ -1,4 +1,4 @@
-# 1階連立常微分方程式（Lorentz方程式）- Lorentz equation
+# 1st order differential equation（Lorentz Equation）
 - dxdt = -px + py
 - dydt = -xz + rx - y
 - dzdt = xy - bz
